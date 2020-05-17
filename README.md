@@ -1,5 +1,5 @@
 # BybitExecution
-BybitExecution　Bybit約定通知
+**BybitExecution　Bybit約定通知**  
 ![image](https://user-images.githubusercontent.com/43275193/82142388-fdcf3700-9876-11ea-91dc-b05227da5127.png)  
 
 注文の約定通知を行います。  
@@ -14,7 +14,8 @@ BybitExecution　Bybit約定通知
 通貨:BTCUSD  売買:Sell  
 約定価格:9362.5  
 注文数:9438 残数:0  
-
+  
+**このツールは完全無料です**  
 **<a href="https://github.com/GitHubCoinSap/BybitEcecution/releases/latest" target="_blank">ダウンロードはここから</a>**  
   
 **※Bybit注文ツールは<a href="https://github.com/GitHubCoinSap/BybitOrder.exe" target="_blank">こちら</a>**  
