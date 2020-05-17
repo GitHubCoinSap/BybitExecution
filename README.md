@@ -17,8 +17,8 @@ BybitEcecution　Bybit約定通知
 
 **<a href="https://github.com/GitHubCoinSap/BybitEcecution/releases/latest" target="_blank">ダウンロードはここから</a>**  
   
-**<a href="https://github.com/GitHubCoinSap/BybitEcecution/releases/latest" target="_blank">LINE設定</a>**  
-**<a href="http://coinsap.php.xdomain.jp/bybitexecution/LineNotify.html" target="_blank">Discord設定</a>**  
+**<a href="http://coinsap.php.xdomain.jp/bybitexecution/LineNotify.html" target="_blank">LINE設定</a>**  
+**<a href="http://coinsap.php.xdomain.jp/bybitexecution/Discord_server_create.html" target="_blank">Discord設定</a>**  
 
 ※メール設定・Twitter設定は作成中です。
   
