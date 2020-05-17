@@ -15,3 +15,5 @@ BybitEcecution　Bybit約定通知
 約定価格:9362.5  
 注文数:9438 残数:0  
 
+**<a href="https://github.com/GitHubCoinSap/BybitEcecution/releases/latest" target="_blank">ダウンロードはここから</a>**  
+
